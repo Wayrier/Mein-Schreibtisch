@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Dokumentation
+    url: https://github.com/Wayrier/Mein-Schreibtisch/blob/main/PHP%20Aufgabe/README.md
+    about: Lies die Installations- und Nutzungshinweise im Projekt-README.

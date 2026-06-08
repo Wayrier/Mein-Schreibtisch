@@ -13,6 +13,10 @@ Der eigentliche Anwendungscode liegt im Ordner [`PHP Aufgabe`](PHP%20Aufgabe/). 
 - `.editorconfig` - Einheitliche Editor-Formatierung
 - `CHANGELOG.md` - Aenderungshistorie
 - `CONTRIBUTING.md` - Hinweise fuer Beitraege
+- `SECURITY.md` - Hinweise zum Melden von Sicherheitsproblemen
+- `SUPPORT.md` - Hilfe und Support-Hinweise
+- `CODE_OF_CONDUCT.md` - Verhaltensregeln fuer Beitraege
+- `.github/` - Issue- und Pull-Request-Vorlagen
 
 ## Schnellstart
 
