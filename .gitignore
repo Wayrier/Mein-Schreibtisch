@@ -18,6 +18,15 @@ Desktop.ini
 *.log
 logs/
 
+# PHP/XAMPP runtime data
+PHP Aufgabe/uploads/notes/*
+PHP Aufgabe/uploads/appointments/*
+PHP Aufgabe/uploads/avatars/*
+!PHP Aufgabe/uploads/notes/.gitkeep
+!PHP Aufgabe/uploads/appointments/.gitkeep
+!PHP Aufgabe/uploads/avatars/.gitkeep
+*.tar
+
 # Dependencies and build output
 node_modules/
 dist/
